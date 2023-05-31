@@ -1,0 +1,6 @@
+/Users/admin/RiderProjects/practice9/practice9/obj/Debug/practice9.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/practice9/practice9/obj/Debug/practice9.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/practice9/practice9/bin/Debug/practice9.exe
+/Users/admin/RiderProjects/practice9/practice9/bin/Debug/practice9.pdb
+/Users/admin/RiderProjects/practice9/practice9/obj/Debug/practice9.exe
+/Users/admin/RiderProjects/practice9/practice9/obj/Debug/practice9.pdb
